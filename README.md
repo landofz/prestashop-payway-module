@@ -1,13 +1,13 @@
 PrestaShop T-Com PayWay module
 ==============================
 
-This is a [PrestaShop] module that enables using T-Com PayWay payment service
+This is a [PrestaShop][] module that enables using T-Com PayWay payment service
 in your internet store.
 
 Installation
 ------------
 
-The module follows the standard [PrestaShop] module installation conventions.
+The module follows the standard [PrestaShop][] module installation conventions.
 
 * Copy the module folder into the `modules` folder.
 * Log into store's administration back-end and enable the module.
@@ -16,8 +16,8 @@ The module follows the standard [PrestaShop] module installation conventions.
 Notes
 -----
 
-The module has been extensively tested on the 1.1.0.5 [PrestaShop] release. If
-using any other version be sure to test all your use cases.
+The module has been extensively tested on the 1.1.0.5 [PrestaShop][] release.
+If using any other version be sure to test all your use cases.
 
 Also, some of the PayWay parameters are still hardcoded in the `payment.tpl`
 file so be sure to check it out if your use case differs.
@@ -45,4 +45,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[PrestaShop] http://www.prestashop.com/
+[PrestaShop]: http://www.prestashop.com/
